@@ -186,12 +186,6 @@ Open **[http://localhost:3000](http://localhost:3000)** — the sakura petals wi
 
 ## 📊 Repository Stats
 
-<!-- github-readme-stats — verified working on GitHub -->
-<img src="https://github-readme-stats.vercel.app/api?username=rohan178k&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=ec4899&text_color=e2e8f0" height="155"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan178k&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=e2e8f0" height="155"/>
-
-<br/><br/>
 
 <!-- Streak stats — using primary herokuapp domain with correct query param format -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan178k&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=C084FC&fire=EC4899&currStreakLabel=C084FC" height="150"/>
