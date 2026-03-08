@@ -1,30 +1,15 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║    🌸  君の名は  ·  Your Name  ·  きみのなまえは  🌸           ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:7c3aed,100:ec4899&height=220&section=header&text=Rohan%20Kusmude&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Anime%20Theme%20Portfolio&descAlignY=60&descSize=22&animation=fadeIn" width="100%" />
 
-# ✨ Rohan Kusmude — Anime Theme Portfolio ✨
-
-### *"Even if I can't see you, even if we're apart... somewhere, you will find me."*
+<!-- ANIMATED TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=15&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&multiline=true&width=720&height=70&lines=Full-Stack+Developer+%7C+Creative+Coder;Building+experiences+at+the+intersection+of+art+%26+code" alt="Typing Animation" />
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-rohan--portfolio--omega.vercel.app-c084fc?style=for-the-badge&labelColor=1a1a2e)](https://rohan-portfolio-omega.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/📁_Repository-Anime--Theme--Portfolio-ec4899?style=for-the-badge&labelColor=1a1a2e)](https://github.com/rohan178k/Anime-Theme-Portfolio)
-[![Deployed on Vercel](https://img.shields.io/badge/▲_Deployed_on-Vercel-a855f7?style=for-the-badge&labelColor=1a1a2e)](https://vercel.com)
-
-<br/>
-
-```
-🌸  · · · · · · · · · · · · · · · · · · · · · · · · · · · · 🌸
-        Sakura petals fall through the digital sky...
-🌸  · · · · · · · · · · · · · · · · · · · · · · · · · · · · 🌸
-```
+<!-- SAKURA DIVIDER GIF -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5e54b322/images/marquee.svg" width="100%"/>
 
 </div>
 
@@ -32,37 +17,66 @@
 
 <div align="center">
 
-## 🎑 About This Project
+## 🌐 Live Deployment
+
+### ✨ **[→ https://rohan-portfolio-omega.vercel.app/ ←](https://rohan-portfolio-omega.vercel.app/)** ✨
+
+<a href="https://rohan-portfolio-omega.vercel.app/">
+  <img src="https://img.shields.io/badge/▲%20OPEN%20LIVE%20DEMO-rohan--portfolio--omega.vercel.app-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=000000" height="38"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/website?url=https%3A%2F%2Frohan-portfolio-omega.vercel.app&style=for-the-badge&logo=vercel&label=Status&color=22c55e&labelColor=0f172a" />
+&nbsp;
+<img src="https://img.shields.io/badge/Platform-Vercel%20Edge-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/CI%2FCD-Auto%20Deploy-ec4899?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
-
-> *Like the red thread of fate connecting two souls across time and space, this portfolio weaves together design and code into a seamless experience — inspired by the breathtaking anime **"Your Name" (君の名は, Kimi no Na wa)**.*
-
-This is a **fully animated, anime-themed personal portfolio** built with modern web technologies. It features floating sakura leaves, cinematic section transitions, and a deep twilight color palette echoing the ethereal world of *Mitsuha and Taki*.
 
 ---
 
 <div align="center">
 
-## 🗺️ Portfolio Sections
+## 🎴 About This Project
 
 </div>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🏠  Home          →   The gateway — "Are you ready?"     │
-│   👤  About         →   Who I am, my story                  │
-│   ⚡  Skills        →   My technical arsenal               │
-│   🚀  Projects      →   Things I've built                  │
-│   🎓  Education     →   My academic journey                │
-│   🏅  Certifications →  Achievements unlocked              │
-│   📬  Contact       →   Let's connect across the stars     │
-│                                                             │
-│            🌸  + Sakura Leaves Falling Effect  🌸          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+A **cinematic, anime-themed personal developer portfolio** built with Next.js 14 and TypeScript. Features a dramatic twilight color palette, floating **sakura petal particle effects**, smooth section transitions, and immersive visual design — crafted to leave a lasting impression.
+
+<div align="center">
+
+<!-- SNAKE ANIMATION / ACTIVITY -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohan178k/rohan178k/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/rohan178k/rohan178k/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📜 Portfolio Sections
+
+<table>
+<tr>
+<td align="center" width="120"><b>🏠</b><br/><b>Home</b><br/><sub>Entry gateway</sub></td>
+<td align="center" width="120"><b>👤</b><br/><b>About</b><br/><sub>My story</sub></td>
+<td align="center" width="120"><b>⚡</b><br/><b>Skills</b><br/><sub>Tech arsenal</sub></td>
+<td align="center" width="120"><b>🚀</b><br/><b>Projects</b><br/><sub>Featured builds</sub></td>
+</tr>
+<tr>
+<td align="center" width="120"><b>🎓</b><br/><b>Education</b><br/><sub>Academic path</sub></td>
+<td align="center" width="120"><b>🏅</b><br/><b>Certifications</b><br/><sub>Credentials</sub></td>
+<td align="center" width="120"><b>📬</b><br/><b>Contact</b><br/><sub>Let's connect</sub></td>
+<td align="center" width="120"><b>🌸</b><br/><b>Sakura FX</b><br/><sub>Ambient petals</sub></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -70,119 +84,42 @@ This is a **fully animated, anime-themed personal portfolio** built with modern 
 
 ## 🛠️ Tech Stack
 
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,react,tailwind,vercel,git,github,vscode&theme=dark&perline=8" />
+
+<br/><br/>
+
 </div>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    ⚡ CORE FRAMEWORK                         ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   ██████╗                                                    ║
-║   ██╔══██╗  Next.js 14  (App Router)                        ║
-║   ██║  ██║  The React framework for production              ║
-║   ██║  ██║  File-based routing · SSR · ISR · SSG            ║
-║   ██████╔╝                                                   ║
-║   ╚═════╝                                                    ║
-╚══════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════╗
-║                    🔷 LANGUAGE                               ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   TypeScript  (98.8% of codebase)                           ║
-║   ├─ Strict type safety                                      ║
-║   ├─ Interface-driven component design                       ║
-║   └─ tsconfig.json configured                               ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════╗
-║                    🎨 STYLING                                ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   Tailwind CSS                                              ║
-║   ├─ Utility-first CSS framework                            ║
-║   ├─ Custom anime twilight color palette                    ║
-║   ├─ Responsive design across all devices                   ║
-║   └─ tailwind.config.ts · postcss.config.mjs               ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════╗
-║                    ✨ ANIMATIONS & EFFECTS                   ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   🌸  Sakura Leaves Fall Effect (custom CSS/JS)             ║
-║   🌊  Smooth section scroll transitions                     ║
-║   💫  Cinematic entry animations                            ║
-║   🎑  "Your Name" inspired visual aesthetics               ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════╗
-║                    🔧 TOOLING                                ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   ESLint          →  Code quality & linting                 ║
-║   PostCSS         →  CSS processing pipeline                ║
-║   npm             →  Package management                     ║
-║   next/font       →  Optimized font loading (Geist)         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════╗
-║                    🚀 DEPLOYMENT                             ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   ▲  Vercel  —  Zero-config Next.js deployment              ║
-║      ├─ Automatic CI/CD from GitHub                         ║
-║      ├─ Global Edge Network CDN                             ║
-║      └─ Instant preview deployments                         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+| Layer | Technology | Purpose |
+|-------|-----------|---------|
+| 🔷 **Framework** | **Next.js 14** (App Router) | SSR, routing, performance optimization |
+| 🔷 **Language** | **TypeScript** (98.8%) | Type-safe, scalable component architecture |
+| 🎨 **Styling** | **Tailwind CSS** | Utility-first, custom anime twilight palette |
+| ⚛️ **UI Library** | **React 18** | Component-based, declarative UI |
+| ✨ **Animations** | **Custom CSS + JS** | Sakura particles, cinematic transitions |
+| 🔤 **Fonts** | **next/font** (Geist) | Optimized, zero layout shift font loading |
+| 🔧 **Linting** | **ESLint** | Code quality enforcement |
+| ⚙️ **CSS Pipeline** | **PostCSS** | Tailwind compilation and transforms |
+| 🚀 **Deployment** | **Vercel** | Edge-deployed, auto CI/CD from GitHub |
+| 📦 **Package Mgr** | **npm** | Dependency management |
 
 ---
 
 <div align="center">
 
-## 📦 Tech Badges
+## ✨ Sakura Particle Effect
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<img src="https://media.giphy.com/media/3ohs7PM1pFoLkZiqso/giphy.gif" width="380" style="border-radius: 12px"/>
 
 </div>
 
----
+The portfolio features a **custom-built sakura petal particle system** — petals are spawned dynamically via JavaScript with fully randomized properties:
 
-<div align="center">
-
-## 🌸 Getting Started Locally
-
-</div>
-
-```bash
-# 🌸 Step 1 — Clone the repository
-git clone https://github.com/rohan178k/Anime-Theme-Portfolio.git
-
-# 🌸 Step 2 — Navigate into the project
-cd Anime-Theme-Portfolio
-
-# 🌸 Step 3 — Install dependencies
-npm install
-
-# 🌸 Step 4 — Run the development server
-npm run dev
-```
-
-> Open [http://localhost:3000](http://localhost:3000) in your browser.  
-> *The sakura petals will greet you.* 🌸
+- 🌸 **Size** — varied petal scale for depth perception
+- 🌊 **Drift curve** — natural swaying sine-wave path
+- ⚡ **Speed** — staggered fall rate for organic layering
+- 💫 **Rotation** — continuous spin on descent
+- 🎨 **Opacity** — subtle fade-in and fade-out lifecycle
 
 ---
 
@@ -196,88 +133,90 @@ npm run dev
 Anime-Theme-Portfolio/
 │
 ├── 📂 public/
-│   └── 📂 resources/          # Static assets, images, icons
+│   └── 📂 resources/           # Images, icons & static assets
 │
-├── 📂 src/                    # Application source code
-│   ├── 📂 app/                # Next.js App Router pages
-│   ├── 📂 components/         # Reusable UI components
-│   │   ├── 🌸 Sakura.tsx      # Falling sakura leaves effect
-│   │   ├── 🏠 Home.tsx        # Landing / entry section
-│   │   ├── 👤 About.tsx       # About me section
-│   │   ├── ⚡ Skills.tsx      # Skills showcase
-│   │   ├── 🚀 Projects.tsx    # Projects display
-│   │   ├── 🎓 Education.tsx   # Education timeline
-│   │   ├── 🏅 Certifications.tsx
-│   │   └── 📬 Contact.tsx     # Contact form/info
-│   └── 📂 styles/             # Global styles
+├── 📂 src/                     # Application source code
+│   ├── 📂 app/                 # Next.js 14 App Router
+│   │   ├── layout.tsx          # Root layout + Geist font config
+│   │   └── page.tsx            # Entry point page
+│   │
+│   └── 📂 components/          # Reusable UI components
+│       ├── 🌸 Sakura.tsx        # Falling petal particle engine
+│       ├── 🏠 Home.tsx          # Landing section
+│       ├── 👤 About.tsx         # About me
+│       ├── ⚡ Skills.tsx        # Skills showcase
+│       ├── 🚀 Projects.tsx      # Projects gallery
+│       ├── 🎓 Education.tsx     # Education timeline
+│       ├── 🏅 Certifications.tsx
+│       └── 📬 Contact.tsx       # Contact form
 │
-├── ⚙️  next.config.mjs
-├── ⚙️  tailwind.config.ts
-├── ⚙️  tsconfig.json
-├── ⚙️  postcss.config.mjs
-├── ⚙️  .eslintrc.json
-└── 📦 package.json
+├── ⚙️  next.config.mjs          # Next.js configuration
+├── 🎨  tailwind.config.ts       # Tailwind + custom theme
+├── 🔷  tsconfig.json            # TypeScript configuration
+├── ⚙️  postcss.config.mjs       # PostCSS pipeline
+├── 🔧  .eslintrc.json           # ESLint rules
+└── 📦  package.json             # Dependencies
 ```
 
 ---
 
 <div align="center">
 
-## 🌠 Deployment
+## 🚀 Run Locally
 
 </div>
 
-This portfolio is deployed on **[Vercel](https://vercel.com)** — the platform built for Next.js.
+```bash
+# 1. Clone the repository
+git clone https://github.com/rohan178k/Anime-Theme-Portfolio.git
 
+# 2. Navigate into the project
+cd Anime-Theme-Portfolio
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
 ```
-┌──────────────────────────────────────────────┐
-│                                              │
-│   GitHub Push  →  Vercel CI/CD  →  Live 🚀  │
-│                                              │
-│   🌐  https://rohan-portfolio-omega.vercel.app │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+
+Open **[http://localhost:3000](http://localhost:3000)** — the sakura petals will greet you. 🌸
 
 ---
 
 <div align="center">
 
-## 🎌 Inspired By
+## 📊 Repository Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=rohan178k&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=ec4899&text_color=e2e8f0&rank_icon=github" height="155"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan178k&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=e2e8f0" height="155"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rohan178k&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=c084fc&fire=ec4899&currStreakLabel=c084fc" height="150"/>
+
+<br/><br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-98.8%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
-
-<div align="center">
-
-> **君の名は。 — "Your Name"**  
-> *Directed by Makoto Shinkai · 2016*
-
-</div>
-
-```
-    "Tasokare-doki" — the twilight hour when day meets night,
-     when the boundary between worlds grows thin...
-
-     This portfolio exists in that space —
-     between imagination and reality,
-     between who I am and who I'm becoming. 🌅
-```
 
 ---
 
 <div align="center">
 
-```
-🌸  · · · · · · · · · · · · · · · · · · · · · · 🌸
+<!-- WAVE FOOTER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:7c3aed,100:1a1a2e&height=130&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Rohan%20Kusmude&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-    Made with 💜 by Rohan Kusmude
-    Inspired by the world of 君の名は
+⭐ **Found this portfolio inspiring? Drop a star!**
 
-    If this resonated with you, drop a ⭐ on GitHub!
-
-🌸  · · · · · · · · · · · · · · · · · · · · · · 🌸
-```
-
-[![GitHub stars](https://img.shields.io/github/stars/rohan178k/Anime-Theme-Portfolio?style=social)](https://github.com/rohan178k/Anime-Theme-Portfolio)
+[![GitHub stars](https://img.shields.io/github/stars/rohan178k/Anime-Theme-Portfolio?style=social)](https://github.com/rohan178k/Anime-Theme-Portfolio/stargazers)
+&nbsp;
+[![GitHub forks](https://img.shields.io/github/forks/rohan178k/Anime-Theme-Portfolio?style=social)](https://github.com/rohan178k/Anime-Theme-Portfolio/network/members)
 
 </div>
