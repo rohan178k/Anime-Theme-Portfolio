@@ -106,8 +106,8 @@ A **cinematic, anime-themed personal developer portfolio** built with Next.js 14
 
 ## ✨ Sakura Particle Effect
 
-<!-- Sakura image from a stable public GitHub source (not giphy — blocked by GitHub CSP) -->
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="380"/>
+<!-- Sakura petals falling — animated GIF from trusted GitHub user-images CDN -->
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="380"/>
 
 </div>
 
@@ -187,14 +187,14 @@ Open **[http://localhost:3000](http://localhost:3000)** — the sakura petals wi
 ## 📊 Repository Stats
 
 <!-- github-readme-stats — verified working on GitHub -->
-<img src="https://github-readme-stats.vercel.app/api?username=rohan178k&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=ec4899&text_color=e2e8f0&rank_icon=github" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rohan178k&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=ec4899&text_color=e2e8f0" height="155"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan178k&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=e2e8f0" height="155"/>
 
 <br/><br/>
 
-<!-- Streak stats — updated to demolab domain (herokuapp is unreliable/sleeping) -->
-<img src="https://streak-stats.demolab.com?user=rohan178k&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=c084fc&fire=ec4899&currStreakLabel=c084fc" height="150"/>
+<!-- Streak stats — using primary herokuapp domain with correct query param format -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan178k&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=C084FC&fire=EC4899&currStreakLabel=C084FC" height="150"/>
 
 <br/><br/>
 
