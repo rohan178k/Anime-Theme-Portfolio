@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useRef, useEffect } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { motion } from "framer-motion";
 
 export function Gateway({ onBgmStart, onComplete }: { onBgmStart: () => void, onComplete: () => void }) {
     const [phase, setPhase] = useState<"ready" | "intro" | "home-start">("ready");
