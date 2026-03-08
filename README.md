@@ -106,9 +106,6 @@ A **cinematic, anime-themed personal developer portfolio** built with Next.js 14
 
 ## ✨ Sakura Particle Effect
 
-<!-- Sakura petals falling — animated GIF from trusted GitHub user-images CDN -->
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="380"/>
-
 </div>
 
 The portfolio features a **custom-built sakura petal particle system** — petals are spawned dynamically via JavaScript with fully randomized properties:
