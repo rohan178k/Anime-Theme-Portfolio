@@ -1,15 +1,21 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   ANIMATED HEADER BANNER                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:7c3aed,100:ec4899&height=220&section=header&text=Rohan%20Kusmude&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Anime%20Theme%20Portfolio&descAlignY=60&descSize=22&animation=fadeIn" width="100%" />
 
-<!-- ANIMATED TYPING SVG -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   ANIMATED TYPING SVG                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=15&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&multiline=true&width=720&height=70&lines=Full-Stack+Developer+%7C+Creative+Coder;Building+experiences+at+the+intersection+of+art+%26+code" alt="Typing Animation" />
 
 <br/>
 
-<!-- SAKURA DIVIDER GIF -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5e54b322/images/marquee.svg" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--          CAPSULE-RENDER DIVIDER (replaces marquee SVG)    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:ec4899&height=3&section=header" width="100%"/>
 
 </div>
 
@@ -22,7 +28,7 @@
 ### ✨ **[→ https://rohan-portfolio-omega.vercel.app/ ←](https://rohan-portfolio-omega.vercel.app/)** ✨
 
 <a href="https://rohan-portfolio-omega.vercel.app/">
-  <img src="https://img.shields.io/badge/▲%20OPEN%20LIVE%20DEMO-rohan--portfolio--omega.vercel.app-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=000000" height="38"/>
+  <img src="https://img.shields.io/badge/%E2%96%B2%20OPEN%20LIVE%20DEMO-rohan--portfolio--omega.vercel.app-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=000000" height="38"/>
 </a>
 
 <br/><br/>
@@ -44,16 +50,6 @@
 </div>
 
 A **cinematic, anime-themed personal developer portfolio** built with Next.js 14 and TypeScript. Features a dramatic twilight color palette, floating **sakura petal particle effects**, smooth section transitions, and immersive visual design — crafted to leave a lasting impression.
-
-<div align="center">
-
-<!-- SNAKE ANIMATION / ACTIVITY -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohan178k/rohan178k/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/rohan178k/rohan178k/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
@@ -84,6 +80,7 @@ A **cinematic, anime-themed personal developer portfolio** built with Next.js 14
 
 ## 🛠️ Tech Stack
 
+<!-- skillicons.dev — verified working on GitHub -->
 <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,tailwind,vercel,git,github,vscode&theme=dark&perline=8" />
 
 <br/><br/>
@@ -109,7 +106,8 @@ A **cinematic, anime-themed personal developer portfolio** built with Next.js 14
 
 ## ✨ Sakura Particle Effect
 
-<img src="https://media.giphy.com/media/3ohs7PM1pFoLkZiqso/giphy.gif" width="380" style="border-radius: 12px"/>
+<!-- Sakura image from a stable public GitHub source (not giphy — blocked by GitHub CSP) -->
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="380"/>
 
 </div>
 
@@ -188,13 +186,15 @@ Open **[http://localhost:3000](http://localhost:3000)** — the sakura petals wi
 
 ## 📊 Repository Stats
 
+<!-- github-readme-stats — verified working on GitHub -->
 <img src="https://github-readme-stats.vercel.app/api?username=rohan178k&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=ec4899&text_color=e2e8f0&rank_icon=github" height="155"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan178k&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=e2e8f0" height="155"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rohan178k&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=c084fc&fire=ec4899&currStreakLabel=c084fc" height="150"/>
+<!-- Streak stats — updated to demolab domain (herokuapp is unreliable/sleeping) -->
+<img src="https://streak-stats.demolab.com?user=rohan178k&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=c084fc&fire=ec4899&currStreakLabel=c084fc" height="150"/>
 
 <br/><br/>
 
@@ -210,7 +210,9 @@ Open **[http://localhost:3000](http://localhost:3000)** — the sakura petals wi
 
 <div align="center">
 
-<!-- WAVE FOOTER BANNER -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   ANIMATED FOOTER BANNER                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:7c3aed,100:1a1a2e&height=130&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Rohan%20Kusmude&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 ⭐ **Found this portfolio inspiring? Drop a star!**
