@@ -30,7 +30,7 @@ const projects: Project[] = [
         title: "Anime-Themed Portfolio",
         description: "A high-performance web showcase utilizing React, advanced GSAP/ScrollTrigger animations, and custom WebGL shaders for a cinematic user experience.",
         tech: ["React", "GSAP", "TailwindCSS", "WebGL", "NextJS"],
-        link: "https://github.com/rohan178k/Anime-Theme--Cinematic-Portfolio/",
+        link: "https://github.com/rohan178k/Anime-Theme-Portfolio",
         color: "from-purple-500/20 to-pink-500/20"
     },
     {
