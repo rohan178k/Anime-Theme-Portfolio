@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import Image from "next/image";
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 
 import { useTheme } from "next-themes";
 
@@ -143,17 +143,57 @@ function OrbitalSakura() {
 }
 
 export function HeroSection() {
+    const [isAiImage, setIsAiImage] = useState(false);
+    const [timerKey, setTimerKey] = useState(0);
+
+    useEffect(() => {
+        const interval = setInterval(() => {
+            setIsAiImage((prev) => !prev);
+        }, 5000);
+        return () => clearInterval(interval);
+    }, [timerKey]);
+
+    const toggleImage = () => {
+        setIsAiImage((prev) => !prev);
+        setTimerKey((prev) => prev + 1);
+    };
+
     return (
         <section id="home" className="relative min-h-screen h-auto w-full flex flex-col justify-center items-center overflow-hidden pt-16 md:pt-20 pb-6">
             <div className="relative group perspective-1000 mb-4 md:mb-8 mt-6 md:mt-12">
-                <div className="relative w-72 h-72 rounded-full p-2">
-                    <Image
-                        src="/resources/profile-pic.png"
-                        alt="Rohan Kusmude"
-                        fill
-                        className="object-cover rounded-full z-10 p-4 drop-shadow-[0_0_20px_rgba(194,243,254,0.3)] filter brightness-110"
-                        priority
-                    />
+                <div
+                    className="relative w-72 h-72 rounded-full p-2 cursor-pointer"
+                    onClick={toggleImage}
+                    title="Click to switch avatar"
+                >
+                    <motion.div
+                        className="absolute inset-0 z-10"
+                        animate={{ opacity: isAiImage ? 0 : 1 }}
+                        transition={{ duration: 0.8, ease: "easeInOut" }}
+                    >
+                        <Image
+                            src="/resources/profile-pic-real.png"
+                            alt="Rohan Kusmude Real"
+                            fill
+                            className="object-cover rounded-full p-4 drop-shadow-[0_0_20px_rgba(194,243,254,0.3)] filter brightness-110 pointer-events-none"
+                            priority
+                        />
+                    </motion.div>
+
+                    <motion.div
+                        className="absolute inset-0 z-10"
+                        animate={{ opacity: isAiImage ? 1 : 0 }}
+                        transition={{ duration: 0.8, ease: "easeInOut" }}
+                    >
+                        <Image
+                            src="/resources/profile-pic-ai.png"
+                            alt="Rohan Kusmude AI"
+                            fill
+                            className="object-cover rounded-full p-4 drop-shadow-[0_0_20px_rgba(194,243,254,0.3)] filter brightness-110 pointer-events-none"
+                            priority
+                        />
+                    </motion.div>
+
                     <OrbitalSakura />
                 </div>
             </div>
