@@ -9,6 +9,7 @@ export function AboutSection() {
         "Music (Guitar, Piano/Keyboard)",
         "Gaming",
         "Painting",
+        "Reading",
         "Public Speaking",
     ];
 
